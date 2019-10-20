@@ -1,0 +1,26 @@
+[
+    {
+        "model": "books.book",
+        "pk": 1,
+        "fields": {
+            "title": "Book 1",
+            "author": "Jony",
+            "publication_date": "2018-02-14 00:00:00",
+            "edition": "delux",
+            "img_src": "https://www.crisol.com.pe/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/p/r/principito-9786034516403-libro-ca01.jpg",
+            "stock": 1
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 2,
+        "fields": {
+            "title": "Book 2",
+            "author": "Shony",
+            "publication_date": "2018-02-14 00:00:00",
+            "edition": "delux",
+            "img_src": "https://www.crisol.com.pe/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/p/r/principito-9786034516403-libro-ca01.jpg",
+            "stock": 1
+        }
+    }
+]
