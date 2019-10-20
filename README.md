@@ -7,9 +7,9 @@
 * npm start
 
 ## Backend (server)
-crear el virtualenv, actibarlo e instalar las dependecias
+crear el virtualenv, activarlo e instalar las dependencias
 * django
-* djangorestframework 
+* djangorestframework
 * django-cors-headers
 * djangorestframework-jwt
  
@@ -21,7 +21,7 @@ ambiente de prueba
 * python manage.py runserver
 
 
-## Notas 
+## Notas
 funcionalidades:
 * Login / Logout (Barra de navegación)
 * Ver / editar / crear / eliminar libros
@@ -34,4 +34,5 @@ funcionalidades:
 * feedback a las acciones del administrador
 * apariencia y estilos del login
 * landing page
-* hacer un date piker para evitar errores en el campo de "año de publicación"
+* hacer un date picker para evitar errores en el campo de "año de publicación"
+
